@@ -5,9 +5,15 @@ In this starter we are using Meta-Llama-3-8B-Instruct with the inference API(Ser
 
 ## Folder structure
 
-- root
-- client (frontend Next.js app)
-- fastAPI (backend FastAPI, python app)
+root
+│
+├── client (frontend Next.js app)
+│ ├── (files and folders for Next.js frontend)
+│ └── ...
+│
+└── fastAPI (backend FastAPI, Python app)
+├── (files and folders for FastAPI backend)
+└── ...
 
 ## You can use the model Meta-Llama-3-8B-Instruct or any other model in the following ways:
 

@@ -3,6 +3,12 @@
 This is a starter for creating a LLM based AI chat app with python (FastAPI) as backend and Next.js as frontend
 In this starter we are using Meta-Llama-3-8B-Instruct with the inference API(Serverless) which is free.
 
+## Folder structure
+
+- root
+- client (frontend Next.js app)
+- fastAPI (backend FastAPI, python app)
+
 ## You can use the model Meta-Llama-3-8B-Instruct or any other model in the following ways:
 
 - Inference API(Serverless) Free

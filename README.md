@@ -14,12 +14,15 @@ root
 
 ## You can use the model Meta-Llama-3-8B-Instruct or any other model in the following ways:
 
-- Inference API(Serverless) Free
+- Inference API(Serverless) Free (This repo uses Inference API)
 - Infererence Endpoints(dedicated) need a subscription
 - Transformers, you can download and run the model on your computer or cloud (You need a GPU with atleast 12 or 24GB VRAM)
   You will need to create a free account for huggingface link: https://huggingface.co/welcome
   If the model you want to use is a gated model, you will also need a permission from the Model owner, this is not at all hard to get by the way
   but you will need it in order to use the model.
+
+As you can see the Inference API is the cheapest easiest to use and does not require you to have a powerful machine/GPU/Compute.
+Thus for this example we have used Inference API but you can use the other options depending on your use case.
 
 ## Additional setup and requirements:
 

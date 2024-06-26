@@ -12,6 +12,8 @@ root
 - fastAPI/ (backend FastAPI, Python app)
   - (files and folders for FastAPI backend)
 
+Note: The main file for front end (UI) is page.tsx path: client/src/app/page.tsx and the main file for the backend is main.py, path: fastAPI-backend/main.py
+
 ## You can use the model Meta-Llama-3-8B-Instruct or any other model in the following ways:
 
 - Inference API(Serverless) Free (This repo uses Inference API)
